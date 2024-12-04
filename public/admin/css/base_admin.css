@@ -1,0 +1,23 @@
+#toast-container > div {
+    opacity: 1;
+}
+.form-table tr td {
+    vertical-align: middle;
+}
+.break-line {
+    word-break: break-all;
+    word-wrap: break-word;
+}
+.good-img {
+    max-height: 120px;
+    max-width: 100px;
+}
+.badge-font {
+    font-size: 1rem !important;
+    font-weight: normal !important;
+}
+.ellipsis {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
