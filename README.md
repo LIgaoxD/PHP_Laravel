@@ -1,4 +1,4 @@
-# 基于PHP的Laravel框架的在线商城项目📌
+# 基于Laravel框架的PHP在线商城项目📌
 
 #### 1、前端技术包括<u>HTML</u>、<u>CSS</u>、<u>Bootstrap</u>前端框架、<u>JavaScript</u>，用于实现网页的结构、样式和交互。
 
